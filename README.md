@@ -1,0 +1,70 @@
+# Red Eye – Dear Family
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+あの日だって通過点
+笑われても踏ん張れ
+支えてくれる人と綺麗な金で飯を食うため
+弱音なんて吐きやしねぇ
+夢の途中 いまだに書けやしねぇ
+え? 誰が泣いてる?
+え? 誰が巻いてる?
+ハイテクなアイテムこれで全て解決
+人間って何? 友達って何?
+自分飾りまた嘘ばっかり
+周り見失い直ぐに人を疑う
+何個あった出口だって塞がる
+確か昔 憧れた人は今はパクられ
+確か昔 朝まで居たやつもパクられ
+今は誰の言葉も聞きたくはない
+今は誰の言葉も俺は聞きたくはない
+みんな口だけそれはガキのうちまで
+大丈夫心配すんなって俺は無事だぜ
+出会ったのは小2
+今では毎日のように smoking (smoking)
+今は俺一人です lonely
+届けお前がいるその塀の向こうに
+決して安くない仲間って言葉
+やっと分かった色んなことが
+My life を支える lady (lady)
+お前は遊びだ hey bitch (hey bitch)
+地元のヤツ今後悔してる
+あのグループも今じゃ崩壊してる
+あの時助けてくれたお前にでかくなってするね恩返し
+他にはいねえけどお前がいてる
+綺麗事だけじゃ語れないね
+嫉妬したやつもきっと見てるけど
+指を咥え未だじっとしてる
+悩んでるそして病んでる
+それでも俺には明日が待ってる
+ガッテム いや笑ってる
+てか言いたいことはだいたい分かってる
+Hey 今は何してる
+何を見て何を感じてる
+この one night だけじゃ終わんない
+お前がいないからつまんない
+出会ったのは小2
+今では毎日のように smoking (smoking)
+今は俺一人です lonely
+届けお前がいるその塀の向こうに
+決して安くない仲間って言葉
+やっと分かった色んなことが (my life)
+My life を支える lady (lady)
+お前は遊びだ hey bitch (hey bitch)
+出会ったのは小2
+今では毎日のように smoking (smoking)
+今は俺一人です lonely
+届けお前がいるその塀の向こうに
+決して安くない仲間って言葉
+やっと分かった色んなことが (my life)
+My life を支える lady (lady)
+お前は遊びだ hey bitch (hey bitch)
+Everything's gonna be alright
+Smoke weed every days so nice
+Everything's gonna be alright
+Smoke weed, smoke weed
+Everything's gonna be alright
+Smoke weed every days so nice
+Everything's gonna be alright
+```
