@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Dear Family",
+  "base_artist": "Red Eye",
+  "createdAt": "2025-12-09T15:10:09.826374Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dear Family",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/01_Dear_Family_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dear Family",
+      "artist": "Red Eye",
+      "has_synced": false,
+      "path": "select/02_Dear_Family_Red_Eye.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dear Family",
+      "artist": "Chip",
+      "has_synced": true,
+      "path": "select/03_Dear_Family_Chip.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dear Family",
+      "artist": "Chipmunk",
+      "has_synced": true,
+      "path": "select/04_Dear_Family_Chipmunk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dear Family",
+      "artist": "Red Eye",
+      "has_synced": false,
+      "path": "select/pl_01_Dear_Family_Red_Eye.txt"
+    }
+  ]
+}
